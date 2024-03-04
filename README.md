@@ -3,7 +3,7 @@
 - Date
 - Closing Price
 - Stock Volume
-- Open Price,
+- Open Price
 - High
 - Low
 
