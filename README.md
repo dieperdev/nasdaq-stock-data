@@ -9,3 +9,6 @@ This repository contains data about stocks from the NASDAQ stock exchange. There
 - Low
 
 ### The stock data was obtained on March 3rd, 2024 and the CSV files contain the past 10 years of data for each stock (up to 2014).
+
+## License
+### [Unlicense](https://unlicense.org/)
